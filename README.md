@@ -1,2 +1,2 @@
-# my_coursera_repo
-Repo for cousera data science classes
+# datasciencecoursera
+Repo for coursera data science classes
